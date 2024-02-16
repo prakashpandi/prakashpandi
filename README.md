@@ -1,8 +1,10 @@
-- 👋 Hi, I’m @prakashpandi
-- 👀 I’m interested in Computer Vision, Computer Graphics, and AI
-- 🌱 I’m currently learning advanced algorithms for optimized rendering in XR
-- 💞️ I’m looking to collaborate on AI, XR, and Robotics related topics
-- 📫 How to reach me - hello@prakashpandi.com
+👋 Hi there! I'm Prakash Pandi, a research software engineer passionate about leveraging Computational Spatial Intelligence.
+
+What I Do:
+🧠 Research and Develop immersive XR applications for medical training, patient education, and surgical planning.
+
+Reach out to me:
+📫 hello@prakashpandi.com
 
 <!---
 prakashpandi/prakashpandi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
