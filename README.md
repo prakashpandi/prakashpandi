@@ -1,6 +1,7 @@
 👋 Hi there! I'm Prakash Pandi, a research software engineer passionate about leveraging Computational Spatial Intelligence.
 
 What I Do:
+
 🧠 Research and Develop immersive XR applications for medical training, patient education, and surgical planning.
 
 <!---
