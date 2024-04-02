@@ -2,7 +2,7 @@
 
 What I Do:
 
-🧠 Research and Develop immersive XR applications for medical training, patient education, and surgical planning.
+🧠 Research and Develop immersive applications.
 
 <!---
 prakashpandi/prakashpandi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
